@@ -1,0 +1,206 @@
+{
+  "main": {
+    "name":"Minami Jiro",
+    "description":"I am a full-stack web developer with experience in Blockchain. With 5 years of experience in Blockchain, having a deep knowledge of blockchain technologies, specifically in constructing the decentralized application, fork & customizing the existing secure smart contracts, implementing trending methods like swap and yield farming, new proof methods and etc",
+    "image":"profilepic.png",
+    "bio":"Well-versed in Blockchain Networks including Bitcoin, Ethereum, Binance (Smart) Chain, EOS, Tron, Solana, Corda. Having many experiences in Smart Contract develop with Solidity and Vyper, Rust. Being full-stack web developer with various skill and stacks in both backend and frontend",
+    "contactmessage":"Please send me message if you will contact me!",
+    "email": "mjiro87@outlook.com, dmbdev800@gmail.com",
+    "phone": "+1 331-248-1329, +1 315-215-0723",
+    "github":"https://github.com/dmb-dev87",
+    "project":"https://github.com/dmb-dev87?tab=repositories",
+    "address":{
+      "street":"235 Parkview Drive",
+      "city":"Los Angeles",
+      "state":"California",
+      "zip": "90017"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/minami-jiro-a43103217/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dmb-dev87",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Kyoto University",
+        "degree":"Master's Degree in Computer Science",
+        "graduated":"2008",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"RobustSwap",
+        "title":"Smart Contract and Frontend Developer",
+        "years":"Aug 2021 - Sep 2021",
+        "description":"Develop Smart Contract for the Airdrop of RBT token on BSC, Develop the frontend with React and Web3 for multisending token"
+      },
+      {
+        "company":"ISA Token",
+        "title":"Smart Contract Developer",
+        "years":"May 2021 - Jun 2021",
+        "description":"Develop the BEP20 token by forking the SafeMoon with Solidity and test on the Pancakeswap"
+      },
+      {
+        "company":"Non Fungible Apes",
+        "title":"Smart Contract Developer",
+        "years":"Mar 2021 - May 2021",
+        "description":"Develop the Smart Contract for NFT with Solidity and ERC1155, Develop the front-end with React.js and integrate the Smart Contracts with Web3.js, Develop the Smart Contract for stacking the NFT with Solidity"
+      },
+      {
+        "company":"Bancor Network",
+        "title":"Frontend Developer",
+        "years":"Feb 2020 - Jan 2021",
+        "description":"Develop the frontend for Bancor protocol V2 with Vue, Integrate the frontend with Bancor Smart Contracts, Design the Swap protocol for Bancor"
+      },
+      {
+        "company":"StoryTagger",
+        "title":"Frontend and Video Streaming Developer",
+        "years":"Aug 2018 - Nov 2019",
+        "description":"Develop the frontend for solcial learning website with Angular 10, Develop the video streaming with WebRTC and Janus, Design and Management the Video Streaming server"
+      },
+      {
+        "company":"Freelancer",
+        "title":"Smart Contract, Dapp, Web3 Developer",
+        "years":"Jan 2016 - May 2018",
+        "description":"Develop the cryptocurrency and NFT on Ethereum and BSC with Solidity, Develop the clients webapp for ICO, DAO, Exchange, etc with React and Web3, Develop the Smart Contracts with Solidity and Rust"
+      },
+      {
+        "company":"Nicosys Co. Ltd",
+        "title":"FullStack Developer",
+        "years":"Nov 2010 - Sep 2015",
+        "description":"Maintenance the Customers’ systems, Management the projects and consulting with clients, Develop the frontend with React, Vue, and Angular"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript/TypeScript",
+        "level":"83%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"92%"
+      },
+      {
+        "name":"VueJs",
+        "level":"72%"
+      },
+      {
+        "name":"Angular",
+        "level":"82%"
+      },
+      {
+        "name":"Solidity",
+        "level":"87%"
+      },
+      {
+        "name":"Web3",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"81%"
+      },
+      {
+        "name":"Python/Django",
+        "level":"50%"
+      },
+      {
+        "name":"PHP/Laravel",
+        "level":"87%"
+      },
+      {
+        "name":"CSS/SCSS",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"NFT Marketplace",
+        "category":"NFT Marketplace",
+        "image":"01.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"RobustSwap",
+        "category":"Robust DEX Platform",
+        "image":"02.png",
+        "url":"https://robustswap.com/"
+      },
+      {
+        "title":"Video Conferencing",
+        "category":"Website I built for a Video Conferencing",
+        "image":"03.png",
+        "url":""
+      },
+      {
+        "title":"StoryTagger",
+        "category":"StoryTagger is the video storytelling platform helping employees share tacit knowledge and develop key skills in the flow of work",
+        "image":"04.png",
+        "url":"https://www.storytagger.com/"
+      },      
+      {
+        "title":"Tokenomics",
+        "category":"Tokenomics",
+        "image":"05.png",
+        "url":""
+      },
+      {
+        "title":"Meetbits Larvalabs",
+        "category":"NFT Marketplace",
+        "image":"06.png",
+        "url":"https://meebits.larvalabs.com/"
+      },
+      {
+        "title":"Camera Controller",
+        "category":"Camera Controller and Driver",
+        "image":"07.jpg",
+        "url":""
+      },
+      {
+        "title":"Crypto Exchange",
+        "category":"Best Instant Crypto Exchang, Fast and Secure",
+        "image":"08.png",
+        "url":""
+      },
+      {
+        "title":"Video Streaming",
+        "category":"Website I built for a Video Conferencing in Serbia",
+        "image":"09.png",
+        "url":""
+      },
+      {
+        "title":"SocialScore",
+        "category":"SocialScore is een platform waarbij je tijdens live events, zoals sportwedstrijden, berichten & afbeeldingen op jouw social media kanalen kan plaatsen in enkele seconden tijd.",
+        "image":"10.png",
+        "url":"https://socialscore.be/"
+      },
+      {
+        "title":"Uniclix",
+        "category":"Manage all of your social media accounts with just a couple of clix.",
+        "image":"11.png",
+        "url":"https://uniclixapp.com/"
+      },
+      {
+        "title":"Actionlix",
+        "category":"ACTINOLIX is a technology consultancy company focused on delivering state of the art IT solutions.ACTINOLIX :We are team of certified IT specialists is dedicated to provide consultancy & implementation of vendor solutions: Microsoft, Oracle, IBM, SAP, EMC, VMware, Salesforce.com, Red Hat, Dell, Informatica, Cisco, ServiceNow, Splunk.",
+        "image":"12.png",
+        "url":"http://actinolix.com/"
+      }
+    ]
+  }
+}
