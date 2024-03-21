@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Bojan Vladov",
-    "description":"Full-Stack Web Engineer Specializing in the Blockchain and WebRTC",
+    "description":"Full-Stack Engineer Specializing in Video Streaming, WebRTC, and Blockchain",
     "image":"profilepic.png",
     "bio":[
       "Being full-stack web developer with various skill and stacks in both backend and frontend",
-      "Well-versed in Blockchain Networks including Bitcoin, Ethereum, Binance (Smart) Chain, EOS, Tron, Solana, Corda.",
-      "Having many experiences in Smart Contract develop with Solidity and Vyper, Rust."      
+      "Having many experiences in Video Streaming and WebRTC",
+      "Well-versed in Blockchain Networks including Bitcoin, Ethereum, Binance (Smart) Chain, EOS, Tron, Solana, Corda."      
     ],
     "contactmessage":"Please send me message if you will contact me!",
     "email": "dmbdev800@gmail.com",
@@ -40,7 +40,7 @@
       {
         "school":"Stanford University",
         "degree":"Bachelor's Degree in Computer Science",
-        "graduated":"2015",
+        "graduated":"2013",
         "description":""
       }
     ],
@@ -48,7 +48,7 @@
       {
         "company":"CDYNE Coporation",
         "title":".NET and VoIP Engineer",
-        "years":"Jan 2021 - May 2022",
+        "years":"Jan 2021 - Feb 2024",
         "urls":"https://cdyne.com",
         "description":[
           "• Designed and implemented the SIP/VoIP Web Phone with Angular12 and sip.js by using WebRTC.",
@@ -72,7 +72,7 @@
       {
         "company":"Progressive Consultancy",
         "title":"Full-Stack Engineer",
-        "years":"Feb 2018 - Aug 2019",
+        "years":"Feb 2017 - Aug 2019",
         "urls":"https://socialscore.be",
         "description":[
           "• Designed the structure of the live streaming server and implemented that with C++ and WebRTC.",
@@ -84,7 +84,7 @@
       {
         "company":"Gary Matrix",
         "title":"Frontend Developer",
-        "years":"Aug 2015 - Dec 2017",
+        "years":"Jul 2013 - Dec 2016",
         "urls":"http://www.graymatrix.com",
         "description":[
           "• Maintenance the Customers’ systems.",
